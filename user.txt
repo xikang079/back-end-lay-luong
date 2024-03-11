@@ -1,0 +1,1 @@
+{"username":"khang","hashedPassword":"$2b$10$0Gh7ALCVa80bUGv0/5LhOOMyz2xLi9is5tdYpaR6CtghiaHDRrmTG"}

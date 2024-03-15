@@ -65,7 +65,6 @@ class ItemController {
             metadata: await ItemService.deleteManyItemById(req.body.ids),
         });
     }
-
     
 }
 

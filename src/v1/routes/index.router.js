@@ -3,9 +3,9 @@
 const express = require('express');
 const router = express.Router();
 
-router.use('/auth', require('./authentication'));
-router.use('/user', require('./user'));
-router.use('/item', require('./item'));
+router.use('/auths', require('./auths'));
+router.use('/crabTypes', require('./crabTypes'));
+
 
 
 module.exports = router;

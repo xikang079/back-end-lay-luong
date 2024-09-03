@@ -1,1 +1,0 @@
-[{"id":1,"username":"kang","password":"123"},{"id":1,"username":"kang1","password":"123"},{"id":1,"username":"kang2","password":"123"},{"id":1,"username":"kang4","password":"123"},{"id":1,"username":"kang01","hashPassword":"$2b$10$yNbCArdZErx5hG8XI5TjXuMPfXpllA5OVkH3JtjP.FTetHN.eQBCq"}]

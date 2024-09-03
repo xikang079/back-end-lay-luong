@@ -5,13 +5,6 @@ const morgan = require('morgan')
 const compression = require('compression')
 require('dotenv').config()
 
-// mongoose.connect('mongodb+srv://khang:123123123@atlascluster.l3z80in.mongodb.net/');
-// mongoose.connection.once('open', function() {
-//     console.log('Connection has been made, now make fireworks...');
-// }).on('error', function(error) {
-//     console.log('Connection error:', error);
-// })
-
 require('./v1/databases/init.mongodb')
 
 //user middleware

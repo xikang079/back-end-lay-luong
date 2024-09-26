@@ -3,7 +3,7 @@ const dev = {
         host: 3000,
     },
     db : {
-        usernameDev: process.env.USERNAME,
+        usernameDev: process.env.USERNAMEE,
         passwordDev: process.env.PASSWORD,
         name: "app-lay-luong"
     }
@@ -14,7 +14,7 @@ const product = {
         host: "",
     },
     db : {
-        usernameProduct: process.env.USERNAME,
+        usernameProduct: process.env.USERNAMEE,
         passwordProduct: process.env.PASSWORD,
         name: "app-lay-luong"
     }
